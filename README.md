@@ -25,4 +25,4 @@ This is a backend API built using Java Spring Boot, MySQL, JSON web token to man
 1. **Clone the Repository**:
    ```bash
    git clone <repository-url>
-   cd reward-management-api
+   cd Rewards-Management-API
